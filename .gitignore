@@ -1,0 +1,30 @@
+# Django project files
+*.pyc
+*.pyo
+__pycache__/
+
+# Development environment
+.env
+venv/
+.vscode/
+
+# Database
+db.sqlite3
+
+# Static files
+/static/
+
+# Media files
+/media/
+
+# Compiled Python files
+*.pyc
+
+# Log files
+*.log
+
+# Temporary files
+*.swp
+*.swo
+*.~
+.DS_Store
